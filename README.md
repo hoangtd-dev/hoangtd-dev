@@ -5,7 +5,7 @@ My name is Johnny and I'm a software developer. I'm from Vietnam and currently w
 ### 🚀 Connect with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/hoangtd-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/hoangtd-dev" target="_blank">
     <img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/d.hoang211/?hl=fr" target="_blank">
