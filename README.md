@@ -56,6 +56,7 @@ My name is Johnny and I'm a software developer. I'm from Vietnam and currently w
 
 <br />
 <br />
+
 ## 📊 Other information:
 
 <p align="center">
