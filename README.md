@@ -64,6 +64,6 @@ My name is Johnny and I'm a software developer. I'm from Vietnam and currently w
   </a>
 
   <a href="https://github.com/hoangtd-dev" target="_blank">
-    <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtd-dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="johnny's top languages" />
+    <img align="right" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtd-dev&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="johnny's top languages" />
   </a>
 </p>
