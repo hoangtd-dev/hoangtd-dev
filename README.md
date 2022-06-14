@@ -1,6 +1,6 @@
 # Hi there <img src="./wave.gif" width="30px">
 
-My name is Johnny and I'm a software developer. I'm from Vietnam and currently working at NetCompany.
+My name is Johnny and I'm a software developer. I'm from Vietnam and currently working at Portt.
 
 ### 🚀 Connect with me:
 
