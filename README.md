@@ -8,12 +8,12 @@ My name is Johnny and I'm a software developer. I'm from Vietnam and currently w
   <a href="https://www.linkedin.com/in/hoangtd-dev" target="_blank">
     <img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
-  <a href="https://www.instagram.com/d.hoang211/?hl=fr" target="_blank">
+<!--   <a href="https://www.instagram.com/d.hoang211/?hl=fr" target="_blank">
     <img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-  </a>
-  <a href="https://www.facebook.com/duyhoang.tran.7712/" target="_blank">
+  </a> -->
+<!--   <a href="https://www.facebook.com/duyhoang.tran.7712/" target="_blank">
     <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
-  </a>
+  </a> -->
 </p>
 
 <br />
@@ -27,17 +27,17 @@ My name is Johnny and I'm a software developer. I'm from Vietnam and currently w
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png" />
-  </a>
+<!--   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript.png" />
   </a>
   <a href="https://angular.io/" target="_blank">
     <img align="left" alt="Angular" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
   </a>
-  <a href="https://webpack.js.org/" target="_blank">
+<!--   <a href="https://webpack.js.org/" target="_blank">
     <img align="left" alt="Webpack" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" />
   </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
@@ -45,7 +45,7 @@ My name is Johnny and I'm a software developer. I'm from Vietnam and currently w
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img align="left" alt="Aws" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank">
     <img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />
   </a>
